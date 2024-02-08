@@ -1,0 +1,43 @@
+.sky{
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-around;
+    width: 95%;
+    border: 8px blue solid;
+}
+
+.sun{
+    background-color: yellow;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 10px dashed orangered;
+    z-index: 1;
+}
+
+.sun2{
+    background-color: orangered;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 10px dashed yellow
+    z-index: 2;
+}
+
+.grass{
+    background-color: darkgreen;
+    height: 100px;
+    width: 95%;
+    border: 8px solid lightgreen;
+}
+
+
+
+/* @media only screen (max-height:1680px) and (max-width:1050px)  
+
+
+@media only screen (max-height:1024px) and (max-width:768px)  */
+
+
+/* @media only screen (max-height:480px) and (max-width:320px) */
+
